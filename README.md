@@ -1,0 +1,29 @@
+# Gabriela Robin – some other time
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+And on a cloudy knoll
+Air blows your scent he knows
+Slow down your passion fire
+But you've got to face it a
+tree could've lost
+Send me a funny poem
+Some other time, my sweetie
+You just laugh aloud 'cause
+easy love can't be in tow
+Let it come all cozy into view,
+let me know
+And on a cloudy knoll
+Air blows your scent he knows
+Slow down my passion fire
+But you've got to face it a
+tree could've lost
+Send me a funny poem
+Some other time, my sweetie
+You just laugh aloud 'cause
+easy love time's being tolled
+Let it come all cozy into view,
+pleasing us
+Send me a funny poem
+```
