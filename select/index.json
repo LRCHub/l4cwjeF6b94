@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "some other time",
+  "base_artist": "Gabriela Robin",
+  "createdAt": "2026-03-31T05:15:35.698990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maybe Some Other Time",
+      "artist": "王若琳",
+      "has_synced": false,
+      "path": "select/01_Maybe_Some_Other_Time_王若琳.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maybe Some Other Time (中文版)",
+      "artist": "王若琳",
+      "has_synced": false,
+      "path": "select/02_Maybe_Some_Other_Time_(中文版)_王若琳.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "X",
+      "has_synced": false,
+      "path": "select/03_Some_Other_Time_X.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "X",
+      "has_synced": true,
+      "path": "select/04_Some_Other_Time_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "Martin Solveig",
+      "has_synced": true,
+      "path": "select/05_Some_Other_Time_Martin_Solveig.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/06_Some_Other_Time_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Some Other Time - Quartet Version",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/07_Some_Other_Time_-_Quartet_Version_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/08_Some_Other_Time_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/09_Some_Other_Time_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Some Other Time intro - Live",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/10_Some_Other_Time_intro_-_Live_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Some Other Time Intro",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/11_Some_Other_Time_Intro_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Some Other Time",
+      "artist": "Jill Scott",
+      "has_synced": true,
+      "path": "select/12_Some_Other_Time_Jill_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Some Other Time - Live at Village Vanguard, NYC - September 26, 2009",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/13_Some_Other_Time_-_Live_at_Village_Vanguard,_NYC_-_September_26,_2009_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Some Other Time (quartet version)",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/14_Some_Other_Time_(quartet_version)_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In the Meantime / Some Other Time",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/15_In_the_Meantime___Some_Other_Time_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "In the Meantime - Some Other Time",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/16_In_the_Meantime_-_Some_Other_Time_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Some Other Place, Some Other Time",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/17_Some_Other_Place,_Some_Other_Time_Alabama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "some other time",
+      "artist": "Gabriela Robin",
+      "has_synced": false,
+      "path": "select/pl_01_some_other_time_Gabriela_Robin.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "some other time",
+      "artist": "Gabriela Robin",
+      "has_synced": false,
+      "path": "select/localdb_01_some_other_time_Gabriela_Robin.txt",
+      "repo_name": "Dw74jSkTypU"
+    }
+  ]
+}
